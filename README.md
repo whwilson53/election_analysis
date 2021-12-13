@@ -3,13 +3,6 @@
 Election commission has requested concise print-outs from the vote compiler script.
 
 ## Election Audit Results
- 
-
-
-
-
-![refactored_2017](VBA_Challenge_2017.png)
-
-![refactored_2018](VBA_Challenge_2018.png)
+ ![](results.png)
 
 ## Election Audit Summary
